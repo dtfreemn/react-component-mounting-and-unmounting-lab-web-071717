@@ -3,7 +3,7 @@ import React from 'react';
 import Pancake from './Pancake';
 
 class Game extends React.Component {
-
+ 
   constructor(props) {
     super(props);
 
